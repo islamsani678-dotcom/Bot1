@@ -1,0 +1,4 @@
+ydl_opts = {
+    'format': 'best',
+    'cookiefile': 'cookies.txt'
+  }
