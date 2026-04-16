@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+yt-dlp
+moviepy
+imageio
+imageio-ffmpeg
+numpy
