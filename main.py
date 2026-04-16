@@ -22,7 +22,7 @@ from telebot import types
 #  CONFIGURATION
 # ──────────────────────────────────────────────────────
 API_TOKEN = os.getenv("API_TOKEN", "8767484201:AAE00ymNQjlJWHlgXIRHnPe8f0gmf0-UsYc")          # Bot token
-ADMIN_ID   = int(os.getenv("ADMIN_ID", 82101463469"))             # Telegram ID of the admin
+ADMIN_ID   = int(os.getenv("ADMIN_ID", "8210146346"))             # Telegram ID of the admin
 PUBLIC_CHANNEL = os.getenv("PUBLIC_CHANNEL", "@saniedit9")  # Channel username (with @)
 DB_FILE   = "bot_data.json"
 DELETE_DELAY = 600          # 10 minutes
